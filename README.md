@@ -6,10 +6,6 @@ IE11 + php + ajax le goat
 #### Current Fav Tech Stack:
 - Rust (pref Axum) + HTMX + Postgres
 
-_javascript fatigue:\
-longing for a hypertext\
-already in hand_
-
 #### Languages/Frameworks I've Used:
 ![Langs and Frameworks](https://skillicons.dev/icons?i=rust,actix,go,ocaml,nodejs,express,js,ts,electron,solidjs,svelte,astro,nextjs,gatsby,react,deno,c,cs,py,flask,django,fastapi,dart,flutter,php,laravel,ruby,rails)
 
