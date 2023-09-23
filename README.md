@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Current Fav Tech Stack:
-- Rust (pref Axum) + HTMX
+- Rust (pref Axum) + HTMX + Postgres
 
 _javascript fatigue:\
 longing for a hypertext\
