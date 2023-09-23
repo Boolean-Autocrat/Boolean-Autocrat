@@ -3,8 +3,8 @@
 #### Current Tech Stack:
 - Axum + HTMX
 
-_javascript fatigue:
-longing for a hypertext
+_javascript fatigue:</br>
+longing for a hypertext</br>
 already in hand_
 
 #### Languages/Frameworks I'ved Used:
