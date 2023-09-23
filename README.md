@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-#### Languages/Frameworks I Use:
+#### Current Tech Stack:
+- Axum + HTMX
+
+_javascript fatigue:
+longing for a hypertext
+already in hand_
+
+#### Languages/Frameworks I'ved Used:
 - Rust
   - Tokio-Axum (tower ecosystem op)
   - Actix-Web
