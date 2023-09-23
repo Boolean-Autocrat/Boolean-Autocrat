@@ -38,4 +38,3 @@ already in hand_
 - PHP
   - Laravel
 - R*by (Rails the O.G, rip)
-- J*va (Spring kinda goes hard tho)
