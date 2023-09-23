@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### Current Tech Stack:
-- Axum + HTMX
+#### Current Fav Tech Stack:
+- Rust (pref Axum) + HTMX
 
 _javascript fatigue:\
 longing for a hypertext\
