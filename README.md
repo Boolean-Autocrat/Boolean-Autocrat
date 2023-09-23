@@ -1,6 +1,6 @@
 ### Sup
-I'm Suyash.\ 
-I program for fun.\ 
+I'm Suyash.\
+I program for fun.\
 IE11, php, ajax le goat. 
 
 #### Current Fav Tech Stack:
