@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Suyash. I program for fun.
 
 #### Current Fav Tech Stack:
 - Rust (pref Axum) + HTMX + Postgres
