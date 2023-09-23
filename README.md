@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sup
 I'm Suyash. I program for fun.
 
 #### Current Fav Tech Stack:
@@ -17,7 +17,6 @@ already in hand_
   - Fiber
 - OCaml
   - Dream
-  - Webmachine
 - Bun
   - ElysiaJS
 - Node
@@ -37,5 +36,5 @@ already in hand_
   - FastAPI
 - PHP
   - Laravel
-- R*by (Rails O.G, rip)
-- J*va (Spring kinda goes hard)
+- R*by (Rails the O.G, rip)
+- J*va (Spring kinda goes hard tho)
