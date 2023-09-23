@@ -26,13 +26,9 @@ already in hand_
   - Koa JS
 - JS/TS
   - HTMX (server supremacy)
-  - Solid
-  - Qwik
-  - Astro
-  - Svelte
-  - Next
-  - React, Preact, Million JS
-  - React Native 
+  - Solid, Qwik, Svelte
+  - Astro, Next
+  - React, Preact, Million JS, React Native 
 - Python
   - Flask
   - Django
