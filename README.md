@@ -1,5 +1,5 @@
 ### Sup
-I'm Suyash. I program for fun.
+I'm Suyash. I program for fun. IE11, php, ajax le goat. 
 
 #### Current Fav Tech Stack:
 - Rust (pref Axum) + HTMX + Postgres
@@ -29,11 +29,14 @@ already in hand_
   - Astro
   - Svelte
   - Next
-  - React
+  - React, Preact, Million JS
+  - React Native 
 - Python
   - Flask
   - Django
   - FastAPI
+- Dart
+  - Flutter
 - PHP
   - Laravel
 - R*by (Rails the O.G, rip)
