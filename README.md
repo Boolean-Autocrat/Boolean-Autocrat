@@ -1,7 +1,7 @@
 ### Sup
 I'm Suyash.\
 I program for fun.\
-IE11 + php + ajax le goat
+IE11 + php + ajax, le goat
 
 #### Current Fav Tech Stack:
 - Rust (pref Axum) + HTMX + Postgres
@@ -11,7 +11,7 @@ IE11 + php + ajax le goat
 ![Languages and Frameworks](https://cdn.jsdelivr.net/gh/Boolean-Autocrat/Boolean-Autocrat@main/langs-frameworks.svg)
 
 #### Not In Icons Stuff
-Tokio-Axum (tower ecosystem op, Rust); Gin, Fiber (Go); Dream (OCaml); Bun (ElysiaJS); Koa JS (Node)\
+Tokio-Axum (tower ecosystem op, Rust); Gin, Fiber (Go); Dream (OCaml); Bun + ElysiaJS; Koa JS (Node)\
 HTMX (server supremacy)
 
 #### Other Stuff I've Used:
