@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**Boolean-Autocrat/Boolean-Autocrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages/Frameworks I Use:
+- Rust
+  - Tokio-Axum (tower ecosystem op)
+  - Actix-Web
+- Golang
+  - Gin
+  - Fiber
+- Bun
+  - ElysiaJS
+- Node
+  - ExpressJS
+  - Koa JS
+- JS/TS
+  - HTMX (server supremacy)
+  - Solid
+  - Qwik
+  - Astro
+  - Svelte
+  - Next
+  - React
+- Python
+  - Flask
+  - Django
+  - FastAPI
+- PHP
+  - Laravel
