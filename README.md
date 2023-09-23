@@ -1,5 +1,5 @@
 ### Sup
-I'm Suyash. I program for fun. IE11, php, ajax le goat. 
+I'm Suyash.\ I program for fun.\ IE11, php, ajax le goat. 
 
 #### Current Fav Tech Stack:
 - Rust (pref Axum) + HTMX + Postgres
