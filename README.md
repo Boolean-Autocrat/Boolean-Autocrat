@@ -8,7 +8,7 @@ IE11 + php + ajax, le goat
 
 _only client/decent stuff on gh_ 
 
-#### Languages/Frameworks I've Used:
+#### Languages & Frameworks I've Used:
 <!---![Langs and Frameworks](https://skillicons.dev/icons?i=rust,actix,go,ocaml,nodejs,express,js,ts,electron,solidjs,svelte,astro,nextjs,gatsby,react,deno,c,cs,py,flask,django,fastapi,dart,flutter,php,laravel,ruby,rails)--->
 ![Languages and Frameworks](https://cdn.jsdelivr.net/gh/Boolean-Autocrat/Boolean-Autocrat@main/langs-frameworks.svg)
 
