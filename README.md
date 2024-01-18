@@ -9,13 +9,12 @@ IE11 + php + ajax, le goat
 _only client/decent stuff on gh_ 
 
 #### Languages & Frameworks I've Used:
-<!---![Langs and Frameworks](https://skillicons.dev/icons?i=rust,actix,go,ocaml,nodejs,express,js,ts,electron,solidjs,svelte,astro,nextjs,gatsby,react,deno,c,cs,py,flask,django,fastapi,dart,flutter,php,laravel,ruby,rails)--->
+<!---![Langs and Frameworks](https://skillicons.dev/icons?i=rust,actix,rocket,go,ocaml,nodejs,express,js,ts,bun,electron,solidjs,svelte,astro,nextjs,gatsby,alpinejs,react,deno,c,cs,py,flask,django,dart,flutter,php,laravel,ruby,rails)--->
 ![Languages and Frameworks](https://cdn.jsdelivr.net/gh/Boolean-Autocrat/Boolean-Autocrat@main/langs-frameworks.svg)
 
-#### Not In Icons Stuff
-Tokio-Axum (tower ecosystem op, Rust); Gin, Fiber (Go); Dream (OCaml); Bun + ElysiaJS; Koa JS (Node)\
-HTMX (server supremacy)
+#### Stuff not in icons
+Axum (Rust), Gin (Go), Fiber (Go), ElysiaJS, Koa JS, HTMX
 
 #### Other Stuff I've Used:
-<!---![Other Stuff](https://skillicons.dev/icons?i=appwrite,aws,azure,babel,bash,bootstrap,docker,firebase,git,graphql,html,jest,kafka,kubernetes,linux,mongodb,mysql,netlify,nginx,planetscale,rabbitmq,redis,redux,sass,sqlite,supabase,selenium,tailwind,threejs,neovim,vercel,vite,webpack)--->
+<!---![Other Stuff](https://skillicons.dev/icons?i=appwrite,babel,bash,bootstrap,css,docker,firebase,git,graphql,gradle,html,jest,kafka,kubernetes,mongodb,mysql,nginx,postgres,planetscale,rabbitmq,regex,redis,redux,sass,sqlite,supabase,selenium,tailwind,threejs,neovim,vite,webpack)--->
 ![Other Stuff](https://cdn.jsdelivr.net/gh/Boolean-Autocrat/Boolean-Autocrat@main/other-stuff.svg)
