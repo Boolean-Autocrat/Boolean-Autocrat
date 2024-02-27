@@ -1,12 +1,11 @@
-### Sup
+### Sup'
 I'm Suyash.\
 I program for fun.\
-IE11 + php + ajax, le goat
+IE11 + php + ajax, goated
 
 #### Current Fav Tech Stacks:
 - Go (pref. Fiber or Gin) + HTMX + Templ + Postgres
 - Rust (pref. Axum) + Yew + Postgres
-- On the lookout for new Rust frameworks...Loco looks fun 🙃.
 
 _only some client side/personal projs are public on my github_ 
 
