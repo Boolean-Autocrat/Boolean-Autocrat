@@ -11,8 +11,8 @@ _only some client side/personal projs are public on my github_
 
 #### Languages & Frameworks I've Used:
 <!---![Langs and Frameworks](https://skillicons.dev/icons?i=rust,yew,actix,rocket,go,htmx,ocaml,nodejs,express,js,ts,bun,elysia,electron,solidjs,svelte,astro,nextjs,gatsby,alpinejs,react,deno,c,cs,py,flask,django,dart,flutter,php,laravel,ruby,rails)--->
-![Languages and Frameworks](https://cdn.jsdelivr.net/gh/Boolean-Autocrat/Boolean-Autocrat@main/langs-frameworks.svg)
+![Languages and Frameworks]()
 
 #### Other Stuff I Currently Use:
 <!---![Other Stuff](https://skillicons.dev/icons?i=bash,git,postgres,docker,kubernetes,nginx,kafka,rabbitmq,redis,pnpm,regex,sqlite,selenium,tailwind,threejs,neovim,vite,webpack)--->
-![Other Stuff](https://cdn.jsdelivr.net/gh/Boolean-Autocrat/Boolean-Autocrat@main/other-stuff.svg)
+![Other Stuff]()
