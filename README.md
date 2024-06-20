@@ -3,9 +3,8 @@ I'm Suyash.\
 I program for fun.\
 IE11 + php + ajax, goated
 
-#### Current Fav Tech Stacks:
+#### Current Fav Tech Stack:
 - Go (pref. Fiber or Gin) + HTMX + Templ + Postgres
-- Rust (pref. Axum) + Yew + Postgres
 
 _only some client side/personal projs are public on my github_ 
 
