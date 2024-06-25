@@ -15,3 +15,6 @@ _only some client side/personal projs are public on my github_
 #### Other Stuff I Currently Use:
 <!---![Other Stuff](https://skillicons.dev/icons?i=bash,git,postgres,docker,kubernetes,terraform,nginx,kafka,rabbitmq,redis,pnpm,sqlite,selenium,tailwind,threejs,neovim,workers,vite,webpack)--->
 ![Other Stuff](./other-stuff.svg)
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
