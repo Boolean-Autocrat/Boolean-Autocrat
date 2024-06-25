@@ -17,4 +17,3 @@ _only some client side/personal projs are public on my github_
 ![Other Stuff](./other-stuff.svg)
 
 ![Overview](https://raw.githubusercontent.com/Boolean-Autocrat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Languages](https://raw.githubusercontent.com/Boolean-Autocrat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
