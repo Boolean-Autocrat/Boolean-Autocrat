@@ -16,6 +16,5 @@ _only some client side/personal projs are public on my github_
 <!---![Other Stuff](https://skillicons.dev/icons?i=bash,git,postgres,docker,kubernetes,terraform,nginx,kafka,rabbitmq,redis,pnpm,sqlite,selenium,tailwind,threejs,neovim,workers,vite,webpack)--->
 ![Other Stuff](./other-stuff.svg)
 
-![Overview](https://raw.githubusercontent.com/Boolean-Autocrat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-<a href="https://app.daily.dev/suyashhanda"><img src="https://api.daily.dev/devcards/v2/eqfp53vJeFXLta4dY5bEe.png?type=wide&r=54r" width="652" alt="Suyash Handa's Dev Card"/></a>
+| <img src="https://raw.githubusercontent.com/Boolean-Autocrat/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" width="400"/> | <a href="https://app.daily.dev/suyashhanda"><img src="https://api.daily.dev/devcards/v2/eqfp53vJeFXLta4dY5bEe.png?type=default&r=3el" alt="Suyash Handa's Dev Card" width="300"/></a> |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
